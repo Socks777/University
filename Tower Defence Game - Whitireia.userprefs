@@ -1,0 +1,32 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\movebytouch.cs">
+    <Files>
+      <File FileName="Assets\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Waypoints.cs" Line="1" Column="1" />
+      <File FileName="Assets\WaveSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Turret.cs" Line="1" Column="1" />
+      <File FileName="Assets\Bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Node.cs" Line="1" Column="1" />
+      <File FileName="Assets\BuildManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shop.cs" Line="1" Column="1" />
+      <File FileName="Assets\TurretBlueprint.cs" Line="1" Column="1" />
+      <File FileName="Assets\PlayerStats.cs" Line="1" Column="1" />
+      <File FileName="Assets\MoneyUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\LivesUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\EnemyMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\GameOver.cs" Line="1" Column="1" />
+      <File FileName="Assets\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\NodeUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\PauseMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Wave.cs" Line="1" Column="1" />
+      <File FileName="Assets\movebytouch.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
